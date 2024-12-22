@@ -89,7 +89,7 @@ const Profile = () => {
         <div className="navbar 2xl:w-[65%] w-[85%] flex justify-between">
           <div className="navbar-start">
             <a className="w-[10rem] cursor-pointer">
-              <img src="public/images/logo.png" alt="" className=" w-[100%]" />
+              <img src="/public/images/logo.png" alt="" className=" w-[100%]" />
             </a>
           </div>
           <div className="navbar-center hidden lg:flex">
