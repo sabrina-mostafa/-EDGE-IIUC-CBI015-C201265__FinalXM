@@ -499,7 +499,7 @@ const Profile = () => {
           <footer className="footer text-[black] p-10">
             <aside>
               <img
-                src="public/Images/logo.png"
+                src="https://mocktrails.com/uploads/medium/4db20fb0859e3bb81bc835636373d972_medium-229x68.png"
                 alt=""
                 className="w-[9rem]"
               ></img>
