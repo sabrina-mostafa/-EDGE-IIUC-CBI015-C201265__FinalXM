@@ -172,7 +172,7 @@ const Profile = () => {
       <header className="w-[100%] flex flex-col justify-center items-center pb-[3%]">
         <div className="up w-[100%] h-[16rem] overflow-hidden">
           <img
-            src="public/images/bg.jpeg"
+            src="https://mocktrails.com/uploads/big/43e8485bd686c86b6f4b28e7932a9337_big-1280x853.jpeg"
             alt=""
             className="object-cover w-full h-full"
           />
@@ -182,7 +182,7 @@ const Profile = () => {
           <div className="lft md:w-[15rem] w-[9rem] md:mt-[-6rem] sm:mt-[-10rem] mt-[-15rem] ">
             <div className="avatar">
               <div className=" border-[white] md:border-[6px] border-[4px] w-[96%] rounded-full ">
-                <img src="public/images/pic.jpg" className="w-[100%]" />
+                <img src="https://mocktrails.com/uploads/medium/cc257a5a2b10bbc5862717147902b9ad_medium-870x1200.jpg" className="w-[100%]" />
               </div>
             </div>
           </div>
@@ -194,7 +194,7 @@ const Profile = () => {
                   Abir Khan
                 </h1>
                 <img
-                  src="public/images/flag.png"
+                  src="https://mocktrails.com/assets/images/flags/bd.png"
                   alt=""
                   className="sm:w-[26px] w-[22px] sm:h-[17px] h-[14px] rounded-[5px]"
                 />
