@@ -207,30 +207,18 @@ const Profile = () => {
                   <span className="font-[700] sm:text-[20px] text-[17px]">Growth Garage</span>{" "}
                 </p>
                 <div className="flex items-center">
-                  <img
-                    src="public/icons/location.png"
-                    alt=""
-                    className="w-[16px] h-[16px] mr-[3%]"
-                  />
+                  <i className="fa-solid fa-location-dot mr-[3%] text-[16px] text-[#999]"></i>
                   <p className="font-[600] leading-[30px]">Bangladesh</p>
                 </div>
                 <div className="flex items-center">
-                  <img
-                    src="public/icons/clock.png"
-                    alt=""
-                    className="w-[15px] h-[15px] mr-[3%]"
-                  />
+                <i className="fa-regular fa-clock mr-[3%] text-[#999]"></i>
                   <p className="font-[500] text-[#555454] leading-[30px]">
                     Active
                     <span className="font-[700] text-[black]"> a week ago</span>
                   </p>
                 </div>
                 <div className="flex items-center">
-                  <img
-                    src="public/icons/response.png"
-                    alt=""
-                    className="w-[15px] h-[15px] leading-[30px] mr-[3%]"
-                  />
+                <i className="fa-solid fa-recycle mr-[3%] text-[#999]"></i>
                   <p className="font-[600] text-[#555454]">
                     Usually responds in
                     <span className="font-[700] text-[black]"> hour</span>
@@ -506,7 +494,7 @@ const Profile = () => {
               <p className="font-[600] text-[17px] py-[3.5%]">
                 Empowering your journey, one Mock Interview at a time.
               </p>
-              <div className="flex justify-between lg:w-[42%] w-[48%] text-[18px]">
+              <div className="flex justify-between sm:w-[50%] w-[55%] text-[18px]">
                 <div className="border-[1px] border-[#5B4DB8] text-[#5B4DB8] hover:text-[white] hover:bg-[#5B4DB8] py-[8px] px-[10px] rounded-[5px]">
                   <i className="fa-brands fa-square-facebook"></i>
                 </div>
